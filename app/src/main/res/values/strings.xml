@@ -42,6 +42,11 @@
         </string>
     <string name="paintEstimatorTitle">Paint Estimator</string>
     <string name="dimensionsPrompt">Enter the dimensions of the room in feet.</string>
+    <string name="int_surf_area">Interior surface area:</string>
+    <string name="unit_of_length">feet</string>
+    <string name="gallons_needed">Gallons needed:</string>
+    <string name="estimated_paint_req">Estimated Paint Required:</string>
+    <string name="unit_of_volume">gallons</string>
 
 
 </resources>
